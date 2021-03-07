@@ -39,9 +39,9 @@
 <br />
 
 
-
+```
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khann-adill&show_icons=true&hide_border=true" />
-
+```
 [facebook]: https://www.facebook.com/adilabdullah.khan.393
 [twitter]: https://twitter.com/adilkhan220496
 [instagram]: https://www.instagram.com/khann_adill/
