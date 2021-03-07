@@ -19,10 +19,10 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />][unix_shell_playlist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/shell.jpg" />][unix_shell_playlist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/git.png" />][interview]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/github.png" />][endtoend]
+[<img align="left" alt="Unix" width="30px" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" />][interview]
+[<img align="left" alt="Unix" width="30px" />][endtoend]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/maven.jpg" />][maven]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/sonarqube.png" />][endtoend]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/jenkins.png" />][jenkins]
