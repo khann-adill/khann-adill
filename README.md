@@ -19,8 +19,8 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/aws.png"/>][git]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/shell.jpg" />][git]
+[<img align="left" alt="Unix" width="40px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/aws.png"/>][git]
+[<img align="left" alt="Unix" width="40px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/shell.jpg" />][git]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/git.png" />][git]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/github.png" />][git]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/maven.jpg" />][git]
