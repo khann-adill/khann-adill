@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="Unix" width="30px" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://github.com/khann-adill/khann-adill/blob/master/Tools_icons/aws.png"/>][AWS]
 [<img align="left" alt="Unix" width="30px" />][unix_shell_playlist]
 [<img align="left" alt="Unix" width="30px" />][interview]
 [<img align="left" alt="Unix" width="30px" />][endtoend]
