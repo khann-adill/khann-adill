@@ -19,17 +19,16 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="Unix" width="30px" src="https://github.com/khann-adill/khann-adill/blob/master/Tools_icons/aws.png"/>]
-[<img align="left" alt="Unix" width="30px" src="https://github.com/khann-adill/khann-adill/blob/master/Tools_icons/maven.jpg" />]
-[<img align="left" alt="Unix" width="30px" src="https://github.com/khann-adill/khann-adill/blob/master/Tools_icons/sonarqube.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://github.com/khann-adill/khann-adill/blob/master/Tools_icons/jenkins.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://github.com/khann-adill/khann-adill/blob/master/Tools_icons/Ansible.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://github.com/khann-adill/khann-adill/blob/master/Tools_icons/docker.png" />]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/blob/master/Tools_icons/aws.png"/>]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/blob/master/Tools_icons/maven.jpg" />]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/blob/master/Tools_icons/sonarqube.png" />]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/blob/master/Tools_icons/jenkins.png" />]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/blob/master/Tools_icons/Ansible.png" />]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/blob/master/Tools_icons/docker.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/grafana.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/helm.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/jfrog.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/kubernetes.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://github.com/khann-adill/khann-adill/blob/master/Tools_icons/kubernetes.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/prometheus.png" />]
 
 <br />
