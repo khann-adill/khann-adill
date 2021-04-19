@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Hi there, I'm Adil Abdullah khan 👋
 
-You can use the [editor on GitHub](https://github.com/khann-adill/khann-adill/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Connect with me:
 
-### Markdown
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br />
 
-```markdown
-Syntax highlighted code block
+### Languages and Tools:
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/aws.png"/>][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/shell.jpg" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/git.png" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/github.png" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/maven.jpg" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/sonarqube.png" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/jenkins.png" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/Ansible.png" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/docker.png" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/grafana.png" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/helm.png" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/jfrog.png" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/kubernetes.png" />][kubernetesplaylist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/cicd-img.png" />][git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/khann-adill/khann-adill/master/Tools_icons/prometheus.png" />][git]
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<br />
+<br />
 
-[Link](url) and ![Image](src)
-```
+<br />
+<br />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khann-adill&show_icons=true&hide_border=true" />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khann-adill/khann-adill/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[facebook]: https://www.facebook.com/adilabdullah.khan.393
+[twitter]: https://twitter.com/adilkhan220496
+[instagram]: https://www.instagram.com/khann_adill/
+[linkedin]: https://www.linkedin.com/in/adil-abdullah-khan-682075140/
+[kubernetesplaylist]: https://github.com/khann-adill/play-with-kubectl
+[git]:  https://github.com/khann-adill/
