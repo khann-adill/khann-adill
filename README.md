@@ -1,7 +1,5 @@
 ## Hi there, I'm Adil Abdullah khan 👋
 
-### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
-
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
